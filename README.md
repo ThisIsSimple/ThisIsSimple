@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+KyungHee University 19
+
+Software Convergence, Yunmin Jeon
+
 <!--
 **ThisIsSimple/ThisIsSimple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
